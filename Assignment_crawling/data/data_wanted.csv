@@ -1,0 +1,236 @@
+Company,Position,Skill,Location
+휴멜로,[여름인턴] AI Research,"['Git', 'Django', 'Pytorch', 'Tensorflow', 'C / C++', 'Python', 'Docker', 'FastAPI']",서울.한국
+해피블록,퀀트 개발자,"['Git', 'MySQL', 'Redis', 'Python', 'FastAPI']",서울.한국
+아토리서치,[100억↑투자] 서비스 개발자,"['Linux', 'JavaScript', 'Python', 'Spring Framework']",서울.한국
+리드넘버,백엔드 엔지니어,null,서울.한국
+메디인테크,[전문연구요원 가능] 시스템 개발자 (신입),"['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']",서울.한국
+메디인테크,"[전문연구요원 가능] C/C++, Python 로봇 제어 개발자 (신입)","['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']",서울.한국
+메디인테크,[전문연구요원 가능] 인공지능 연구원 (신입),"['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']",서울.한국
+메디인테크,[전문연구요원 가능] 영상처리 알고리즘 개발자 (신입),"['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']",서울.한국
+큐브리드,DBMS 엔진 개발(전문연구요원),"['Git', 'Linux', 'C / C++', 'Java', 'SQL']",서울.한국
+알지에이아이엔씨(RGA Inc.),AI Vision Engineer,"['Confluence', 'Git', 'JIRA', 'Pytorch', 'Tensorflow', 'C / C++', 'Python', 'CAD', '로봇', '임베디드 시스템', '인공 지능', 'RTOS', 'Embedded Linux', '로봇 프로그래밍']",서울.한국
+로민,[전문연구요원] 컴퓨터비전 엔지니어,"['Github', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker', 'PostgreSQL', 'RHEL', 'Ubuntu', 'OpenCV', 'FastAPI']",서울.한국
+로민,[전문연구요원] 자연어처리 엔지니어,"['Github', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker', 'PostgreSQL', 'RHEL', 'Ubuntu', 'OpenCV', 'FastAPI']",서울.한국
+큐브리드,DBMS 엔진 개발,"['Git', 'Linux', 'C / C++', 'Java', 'SQL']",서울.한국
+알지티,자율주행 F/W엔지니어,"['Git', 'Python', 'C++', 'ROS']",서울.한국
+플랫포머스,웹 개발자,"['Github', 'Android', 'AngularJS', 'iOS', 'Linux', 'React', 'VueJS', 'ASP', 'ASP .NET', 'HTML', 'Java', 'JavaScript', 'SQL', 'JSP']",서울.한국
+이모코그,소프트웨어 엔지니어,null,서울.한국
+챔프스터디,PHP 프로그래머,"['Git', 'ExpressJS', 'GraphQL', 'JavaScript', 'Node.js', 'TypeScript', 'AWS', 'Jenkins', 'NoSQL', 'Docker', 'RDBMS', 'EC2', 'NodeJS', 'Next.js']",서울.한국
+서울거래,[주니어] 개발자 (5년차미만),null,서울.한국
+서울거래,[주니어] 프런트엔드 개발자 (5년차미만),null,서울.한국
+아이티이지,[개발팀] 백엔드 담당자,null,서울.한국
+엔츠,[전문연구요원 지원가능] B2B SaaS 웹 개발자,null,서울.한국
+보이저엑스(VoyagerX),"[Vrew, vFlat] 백엔드 개발자",null,서울.한국
+보이저엑스(VoyagerX),[Vrew] 데스크탑 앱 개발자,null,서울.한국
+마인드허브,프론트엔드 개발자,"['Git', 'Android', 'Kotlin', 'TypeScript', 'AWS', 'NodeJS', 'React.js', 'Nest.js']",경기.한국
+전능아이티,풀스택 어플리케이션 개발자,"['.NET', 'MySQL', 'C#', 'Node.js', 'MSSQL']",서울.한국
+전능아이티,병원용 SW 개발자 [웹 프론트],"['.NET', 'MySQL', 'C#', 'Node.js', 'MSSQL']",서울.한국
+전능아이티,병원 SW 산업기능요원(보충역) 개발자,"['.NET', 'MySQL', 'C#', 'Node.js', 'MSSQL']",서울.한국
+퍼즐벤처스(PuzzlesVenturesCo.),"전기차 충전소 플랫폼 개발자 (백엔드, Node.js)",null,서울.한국
+바텍,Back-end 개발,null,서울.한국
+이글로벌시스템,백엔드/서버 개발자,"['Git', 'Linux', 'C / C++', 'Java', 'SQL', 'UNIX', 'Docker']",서울.한국
+디지털메딕,Frontend / Backend 서버 개발자,"['Github', 'MySQL', 'React', 'Java', 'JavaScript', 'Spring Framework', 'JPA']",서울.한국
+아이오트러스트,프론트엔드 개발,"['VueJS', 'Node.js']",서울.한국
+팀스파르타,[100억↑투자] Software Engineer (산업기능요원 보충역),"['Flask', 'MongoDB', 'React', 'AWS', 'Docker', 'Flutter']",서울.한국
+히츠,MLOps 개발자,"['Git', 'Python', 'AWS', 'Kubernetes']",서울.한국
+에디트콜렉티브,컴퓨테이셔널 디자이너,null,서울.한국
+에스아이에이,Research Scientist,null,대전.한국
+이스트소프트(ESTsoft),[ESTsecurity] C/C++ 리눅스 소프트웨어 개발자,"['GitLab', 'Python', 'C', 'C++', 'Docker', 'SQLite']",서울.한국
+인졀미,node.js 백엔드 개발자(신입가능),"['Git', 'Android', 'ExpressJS', 'iOS', 'TypeScript', 'Scrum', 'Agile', 'AWS', 'NodeJS', 'Android Studio', 'IntelliJ IDEA', 'Visual Studio Code', 'Flutter', 'Notion']",서울.한국
+디렉셔널,퀀트 개발자 Quant Developer,"['Git', 'JIRA', 'Slack', 'Android', 'GraphQL', 'iOS', 'Linux', 'MySQL', 'React', 'Redis', 'HTML', 'JavaScript', 'Kotlin', 'Python', 'SQL', 'TypeScript', 'AWS', 'Docker', 'JPA', 'Spring Boot', 'Flutter', 'Notion', 'Restful API']",서울.한국
+에이모(AIMMO),백엔드개발자,null,경기.한국
+긴트,백엔드 개발자,"['하드웨어', '임베디드 시스템', '하드웨어 설계', '회로 설계', '하드웨어 개발', 'ORCAD', 'PADS']",서울.한국
+이마고웍스,[100억↑투자] 클라우드 데이터 엔지니어,null,서울.한국
+스카이랩스(SkyLabs),"[Back-end, Front-end, 서버, 웹] 개발자 (전문연구요원 가능)","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS', '신호 처리', '인공 지능', 'JPA', 'Spring Boot', 'ML']",경기.한국
+퀄슨,[제품경험실] 개발팀 백엔드 개발자(전문연구요원 가능),"['Github', 'Django', 'MySQL', 'React', 'Redis', 'CSS', 'HTML', 'JavaScript', 'Python', 'TypeScript', 'AWS', 'FastAPI']",서울.한국
+코드마인드,SW 엔지니어 (개발자),"['Linux', 'C / C++', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Scala', 'XML', 'JSP', 'CentOS', 'Ubuntu']",서울.한국
+키클롭스,앱 개발 (React Native),null,서울.한국
+키클롭스,백엔드 개발 (Node),null,서울.한국
+키클롭스,프론트엔드 개발 (React),null,서울.한국
+잉카엔트웍스,"신입 화이트박스 크립토그래피 개발자(C,C++)","['Android', 'iOS']",서울.한국
+트위니,[로봇사업본부] 백엔드 개발자 (전문연구요원 가능),null,대전.한국
+트위니,[로봇개발본부] 자율주행 로봇 S/W 개발 (전문연구요원 가능),null,대전.한국
+테스트뱅크,프론트엔드 개발자,"['Git', 'Github', 'GraphQL', 'React', 'AWS', 'React Native']",서울.한국
+제이앤피메디(JNPMEDI),[100억↑투자] Back-end Software Engineer,"['Sketch', 'Confluence', 'JIRA', 'Slack', 'Adobe XD', 'Figma', 'Notion']",인천.한국
+제이앤피메디(JNPMEDI),[100억↑투자] Front-end Software Engineer,"['Sketch', 'Confluence', 'JIRA', 'Slack', 'Adobe XD', 'Figma', 'Notion']",인천.한국
+제이앤피메디(JNPMEDI),[100억↑투자] Fullstack Software Engineer,"['Sketch', 'Confluence', 'JIRA', 'Slack', 'Adobe XD', 'Figma', 'Notion']",인천.한국
+클라우드호스피탈,프론트엔드 웹 개발자 (React),null,서울.한국
+포자랩스,인공지능 NLP 개발자,null,서울.한국
+이엘일렉트릭,S/W 개발(신입),"['Git', 'Github', 'Android', 'iOS', 'Linux', 'React', 'C#', 'JavaScript', 'Kotlin', 'SQL', 'AWS', 'Docker', 'Spring Framework', 'JPA', 'Xcode', 'Embedded Linux', 'Embedded C', 'React Native', 'Flutter']",경기.한국
+에이에프아이,Devops 엔지니어 (신입),"['Java', 'JavaScript', 'AWS', 'TCP', 'C++', 'UDP', 'GCP', 'Unity3D', 'React.js']",서울.한국
+코코네엠(coconeM),병역특례 S/W 개발 엔지니어 전문연구요원,"['MongoDB', 'Java', 'Python', 'AWS', 'Docker', 'GCP', 'Kubernetes']",서울.한국
+심버스,프론트엔드 개발자,"['Confluence', 'JIRA', 'JavaScript', 'Go', 'Golang']",서울.한국
+머니투데이,Server Developer(Web/PHP),null,서울.한국
+메이아이,인공지능 리서처 (AI Researcher),"['Django', 'Python']",서울.한국
+모빌린트,NPU Compiler Engineer,"['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL', 'STP', 'Xilinx', 'RTL 설계', 'RTL 코딩']",서울.한국
+선데이띵커,[판다랭크] 프론트엔드/풀스택 Nodejs 개발자,"['JavaScript', 'TypeScript', 'AWS', 'jQuery', 'HTML5', 'CSS3', 'NodeJS']",서울.한국
+아트라미,백 앤드 개발자,"['React', 'CSS', 'HTML', 'Java', 'JavaScript', 'Node.js', 'PHP', 'Python', 'TypeScript', 'AWS', 'PostgreSQL', 'React.js', 'Spring Boot', 'Next.js', 'Nest.js']",대구.한국
+아트라미,프론트앤드 개발자,"['React', 'CSS', 'HTML', 'Java', 'JavaScript', 'Node.js', 'PHP', 'Python', 'TypeScript', 'AWS', 'PostgreSQL', 'React.js', 'Spring Boot', 'Next.js', 'Nest.js']",대구.한국
+위픽코퍼레이션,워드프레스 개발자,"['WordPress', 'HTML', 'JavaScript', 'CSS 자바 스크립트']",서울.한국
+핫셀러,Python 백엔드 개발자(신입),"['Git', 'MySQL', 'Python', '개발', 'AWS', '솔루션 개발']",서울.한국
+심심이,산업기능요원(보충역 신입만) 개발자,"['Git', 'Android', 'iOS', 'TypeScript', 'React Native']",서울.한국
+와이더플래닛,프론트엔드 엔지니어,"['Git', 'React', 'Java', 'JavaScript', 'SQL', 'Maven', 'Spring Framework', 'Gradle', 'JPA', 'Spring Boot']",서울.한국
+스니포,Flutter 프론트엔드 개발자,"['Git', 'Android', 'iOS', 'Flutter']",서울.한국
+에이치디엑스윌,"벡엔드 개발자 (NodeJs, NestJs, MongoDB)","['Git', 'MongoDB', 'React', 'TypeScript', 'AWS', 'NodeJS', 'Nest.js']",서울.한국
+에이치디엑스윌,"프론트 개발자 (React, TS, OpenGL)","['Git', 'MongoDB', 'React', 'TypeScript', 'AWS', 'NodeJS', 'Nest.js']",서울.한국
+리디(RIDI),프론트엔드 엔지니어(Global),null,서울.한국
+클러스터지원그룹,소프트웨어 엔지니어(POS시스템),"['Git', 'Android', 'MySQL', 'ASP', 'C#', 'HTML', 'Java', 'JavaScript', 'Node.js', 'Python', 'Visual Basic', 'jQuery', 'PowerBuilder', 'MSSQL']",서울.한국
+클러스터지원그룹,웹개발자,"['Git', 'Android', 'MySQL', 'ASP', 'C#', 'HTML', 'Java', 'JavaScript', 'Node.js', 'Python', 'Visual Basic', 'jQuery', 'PowerBuilder', 'MSSQL']",서울.한국
+클러스터지원그룹,소프트웨어 엔지니어(HR시스템),"['Git', 'Android', 'MySQL', 'ASP', 'C#', 'HTML', 'Java', 'JavaScript', 'Node.js', 'Python', 'Visual Basic', 'jQuery', 'PowerBuilder', 'MSSQL']",서울.한국
+뉴지스탁,Back-end 개발자,"['Linux', 'C / C++', 'JavaScript', 'Python', 'SQL', 'Spring Framework']",서울.한국
+코빗(Korbit),"백엔드 개발자 (Java, 주니어)","['MySQL', 'Java', 'Kotlin', 'Rust', 'Scala', 'AWS', 'Go', 'Golang', 'Apache Kafka', 'Spring Boot', 'Kubernetes']",서울.한국
+웨이센(waycenInc.),Medical AI Research Engineer(Junior),null,서울.한국
+모니터코퍼레이션,AI 백엔드/데이터 엔지니어,"['Git', 'Java', 'JavaScript', 'Python', 'AWS']",서울.한국
+오지스,스마트 컨트랙트 개발자,null,서울.한국
+오지스,백엔드 개발자,null,서울.한국
+오지스,프론트 개발자 (시니어),null,서울.한국
+구름,풀스택 개발자(3년 이하),"['Git', 'MongoDB', 'React', 'Redis', 'HTML', 'Java', 'JavaScript', 'Node.js', 'SQL', 'AWS', 'HTTP', 'jQuery', 'DevOps', 'ElasticSearch', 'NodeJS', '서버 관리', '서버 아키텍처']",경기.한국
+엘리스,[신입] 백엔드 개발자,"['Kotlin', 'Flutter', 'WebRTC', 'Coroutine', 'Restful API']",서울.한국
+스파이더크래프트,Windows Client 개발자,"['Git', 'MySQL', 'React', 'CSS', 'JavaScript', 'PHP', 'MSSQL', 'Notion']",서울.한국
+단비교육,[윙크] Front-end Developer (ReactJS),null,서울.한국
+미러,"[firebase,Vue.js] 풀스택 개발자","['Firebase', 'VueJS', 'Node.js', 'Next.js']",서울.한국
+아하랩스,AI Engineer(신입),"['Pytorch', 'Tensorflow', 'Python']",경기.한국
+이파피루스,솔루션 엔지니어(시스템엔지니어/SE),"['AJAX', 'MySQL', 'Java', 'SQL', 'Servlets']",경기.한국
+쿤텍,Python Backend 개발자,"['Linux', 'Python']",서울.한국
+쿤텍,보안 SW 개발자 신입,"['Linux', 'Python']",서울.한국
+쿤텍,C 언어 개발자,"['Linux', 'Python']",서울.한국
+휴톰,Computer Vision Fundamental Research Engineer,"['Git', 'MySQL', 'React', 'Node.js', 'TypeScript', 'PostgreSQL', 'ORM']",서울.한국
+휴톰,AI/영상처리 알고리즘 - Surgical Navigation개발자,"['Git', 'MySQL', 'React', 'Node.js', 'TypeScript', 'PostgreSQL', 'ORM']",서울.한국
+유디아이디(UDID),전자결제서비스 PHP 개발자,"['MongoDB', 'MySQL', 'Java', 'JavaScript', 'TypeScript', 'JPA', 'Spring Boot', 'Angular']",서울.한국
+아템드메라키,정량적 연구자/모델러,null,서울.한국
+프리딕션,Frontend Engineer - SaaS,"['Github', 'React', 'JavaScript', 'TypeScript', 'AWS', 'Next.js']",서울.한국
+포스타입,[100억↑투자] 백엔드 엔지니어,null,서울.한국
+넛지헬스케어(캐시워크),[병역특례_현역/보충역] Flutter 개발자,null,서울.한국
+넛지헬스케어(캐시워크),[병역특례_현역/보충역] 프론트엔드 개발자,null,서울.한국
+넛지헬스케어(캐시워크),[병역특례_현역/보충역] 풀스택 개발자,null,서울.한국
+넛지헬스케어(캐시워크),[병역특례_현역/보충역] 백엔드 개발자(Node.js),null,서울.한국
+레디코리아,전자무역 솔루션 개발자 (Software Engineer),null,서울.한국
+컨트롤에프,웹 개발,"['Linux', 'MySQL', 'Pytorch', 'Tensorflow', 'HTML', 'Python', 'Docker', 'Spring Framework']",대전.한국
+지냅스,[연구소/IVI] 안드로이드 개발자 (Android Developer),"['Git', 'Android', 'Linux', 'C / C++', 'Java', 'Kotlin', 'Jenkins', 'Android Studio']",경기.한국
+온엣,웹 백엔드 개발자,"['Linux', 'HTML', 'JavaScript', 'Python', 'SQL', 'AWS']",서울.한국
+자이언트스텝,AI 연구원,"['DirectX', 'OpenGL', 'Unreal Engine', 'C++', 'Unity3D']",서울.한국
+오브라운,웹 서비스 개발자,"['MySQL', 'CSS', 'HTML', 'JavaScript', '웹 개발', 'Apache']",서울.한국
+에너자이(ENERZAi),AI R&D 연구원,"['Git', 'Github', 'Pytorch', 'Tensorflow', 'Python', '개발', 'C++', '최적화', 'Docker', '카메라', '컴파일러', 'CUDA', 'OpenCL', 'OpenMP', '라이브러리 관리']",서울.한국
+아이시냅스,신호처리/알고리즘 PART,null,서울.한국
+코멘토,백엔드 개발자 (PHP),null,서울.한국
+코드잇(codeit),[100억↑투자] 커리큘럼 매니저 [백엔드 교육],null,서울.한국
+코드잇(codeit),[100억↑투자] 커리큘럼 매니저 [프론트엔드 교육],null,서울.한국
+코드잇(codeit),[100억↑투자] 테크 콘텐츠 에디터,null,서울.한국
+코드잇(codeit),[100억↑투자] 프로그래밍 콘텐츠 프로듀서,null,서울.한국
+바비디 코리아,"Software Engineer, Backend","['Github', 'Android', 'iOS', 'Linux', 'Pytorch', 'React', 'Tensorflow', 'JavaScript', 'Kotlin', 'Python', 'Swift', 'AWS', 'Docker', 'PostgreSQL']",서울.한국
+피플앤드테크놀러지,AI 제품 개발자,null,서울.한국
+굿라이프랩,풀스택 개발자(신입 가능),"['Git', 'MySQL', 'HTML', 'JavaScript', 'Node.js', 'TypeScript', 'AWS', 'Docker', 'React.js', 'Next.js']",서울.한국
+라이트비전,AI 연구개발자 전문연구요원(병역특례),null,서울.한국
+지엠디소프트(GMDSOFT),포렌식 아티팩트 분석가 / 분석 모듈 개발자,null,경기.한국
+레몬클라우드,"Serverless 기반 백엔드 개발자 (DevOps, node.js)","['Git', 'Github', 'AngularJS', 'React', 'Tensorflow', 'Python', 'TypeScript', 'AWS', 'Docker', 'ElasticSearch', 'NodeJS', 'React Native']",서울.한국
+빌드블록,[100억↑투자] 웹 백엔드 개발자 (Backend Engineer) (신입가능),"['React', 'JavaScript', 'TypeScript', 'Next.js']",서울.한국
+넥슨코리아(NEXON),[인텔리전스랩스] 탐지응용팀 풀스택 개발자 (Vue/Go),null,경기.한국
+티에스엔랩,DevOps/Python 개발자 (재택근무),null,경기.한국
+티에스엔랩,네트워크 프로토콜 개발자 (재택근무),null,경기.한국
+이노팸,AI researcher,['Github'],서울.한국
+스카이링크,프론트엔드 개발자,"['Git', 'VueJS', 'JavaScript', 'Node.js', 'TypeScript', 'AWS', 'React.js']",서울.한국
+스카이링크,백엔드 개발자,"['Git', 'VueJS', 'JavaScript', 'Node.js', 'TypeScript', 'AWS', 'React.js']",서울.한국
+에스오에스랩(SOS LAB),[100억↑투자] LiDAR Perception Software Developer,"['Linux', 'Python', 'C++', 'ROS']",경기.한국
+오케스트로,Full Stack Developer (Cloud Project),['Python'],서울.한국
+디오비스튜디오,프론트엔드 개발,"['Pytorch', 'Tensorflow', 'Python', 'Docker']",서울.한국
+이스트게임즈,게임 서버 개발자,"['Linux', 'C#', 'PHP', 'Python', 'Windows 서버', 'Bash', 'IPS']",서울.한국
+이스트게임즈,웹 개발자,"['Linux', 'C#', 'PHP', 'Python', 'Windows 서버', 'Bash', 'IPS']",서울.한국
+어크로스비,서비스 개발(전문연구요원),"['Git', 'AWS']",서울.한국
+씨알에스큐브(CRScube),웹 개발자(산업기능요원/전문연구요원 가능),"['HTML', 'JavaScript', 'Python', 'AWS', 'API', 'Spring Framework']",서울.한국
+엘리오앤컴퍼니,프론트엔드 개발자 (신입),null,서울.한국
+쏘마,Security Engineer,"['Python', 'Go', 'C++']",경기.한국
+비트센싱,[100억↑투자] 차량용 RTOS BSP 개발 & AUTOSAR,"['C#', 'Python', 'C']",경기.한국
+에이디알에프코리아,"RTL Engineer, SW 개발자, HW 개발자","['Git', 'Linux', 'C / C++', 'Python', 'C++', 'PCB 디자인', 'RTL 설계', 'RTL 코딩', 'PCB 레이아웃 설계', 'FPGA 프로토 타이핑']",경기.한국
+에프앤가이드,AI팀 (금융ML/DL 모델 개발자),"['C#', 'SQL']",서울.한국
+아임잇,웹개발자(JAVA) SI/SM,"['Java', 'WebSphere MQ']",서울.한국
+아임잇,EAI SM/SI,"['Java', 'WebSphere MQ']",서울.한국
+아임잇,RPA SM/SI,"['Java', 'WebSphere MQ']",서울.한국
+인스피언,[청년디지털일자리]클라우드 EDI 서비스 개발자,null,서울.한국
+팬마음,"[병역특례 보충역, 현역] Node.js Back-End 개발자",null,서울.한국
+팬마음,"[병역특례 보충역, 현역] 웹 프론트엔드 개발자",null,서울.한국
+트릿지,[1500억↑투자] Junior Backend Engineer,"['Python', 'SQL', 'Google Analytics']",서울.한국
+그린랩스,팜모닝 백엔드 엔지니어,null,서울.한국
+블루버드(Bluebird),결제 단말기 개발자 (전문연구요원가능),"['Git', 'Android', 'Linux', 'React', 'C / C++', 'HTML', 'Java', '펌웨어']",서울.한국
+블루버드(Bluebird),[전문연구요원] Android framework 개발,"['Git', 'Android', 'Linux', 'React', 'C / C++', 'HTML', 'Java', '펌웨어']",서울.한국
+블루버드(Bluebird),안드로이드 개발자,null,서울.한국
+에이엠스퀘어,AI Engineer (Field Engineer),"['Git', 'Slack', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'SQL', 'Docker', 'OpenCV']",경북.한국
+에이엠스퀘어,[전문연구요원] 머신러닝 엔지니어,"['Git', 'Slack', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'SQL', 'Docker', 'OpenCV']",경기.한국
+마드라스체크,엔터프라이즈 개발자,['QA 엔지니어링'],서울.한국
+그릿스탠다드,웹 프론트엔드 개발자(신입),"['Java', 'Python', 'SQL', 'AWS', 'ElasticSearch', 'Kubernetes']",서울.한국
+그릿스탠다드,파이썬 개발자,"['Java', 'Python', 'SQL', 'AWS', 'ElasticSearch', 'Kubernetes']",서울.한국
+그릿스탠다드,RPA 개발자,"['Java', 'Python', 'SQL', 'AWS', 'ElasticSearch', 'Kubernetes']",서울.한국
+밀리만코리아(Milliman),Software Engineer (Application 개발),"['Git', 'Github', 'TypeScript', 'Jenkins', 'React.js']",서울.한국
+모던텍,전기자동차 SW팀 C#/C++/웹/자바 개발자(신입/서울),"['C', 'Embedded Linux', 'Embedded C']",서울.한국
+모던텍,전기자동차 SW팀 C#/C++/웹/자바 개발자(신입/창원),"['C', 'Embedded Linux', 'Embedded C']",경남.한국
+에이테크솔루션,IT전산운영/관리,['Python'],경기.한국
+스카이오토넷,임베디드 SW개발자 (전문연구요원),"['Shader', 'C', 'C++', '차량', '검증', 'CAM', '카메라', 'Embedded Linux', '공차 분석', 'Embedded C']",서울.한국
+디알엑스,서비스 기획자,null,서울.한국
+뱅가드랩,자바 개발 및 설계,"['Oracle', 'VueJS', 'Java', 'JavaScript']",서울.한국
+에이비에이치,SI 개발팀 (연구원/선임연구원급)_부산,"['React', 'HTML', 'JavaScript', 'SQL', 'Spring Framework']",부산.한국
+에이비에이치,SI 개발팀 (연구원/선임연구원급)_울산,"['React', 'HTML', 'JavaScript', 'SQL', 'Spring Framework']",울산.한국
+토탈미디어그램,프론트엔드 개발자,"['AngularJS', 'TypeScript']",서울.한국
+아토머스(마인드카페),파이썬(python) 백엔드 개발자(전문연구요원),null,서울.한국
+아키드로우,[아키스케치] QA 개발자_전문연구요원,"['AWS', 'Spring Framework']",서울.한국
+아키드로우,[아키스케치] 백엔드 개발자,"['AWS', 'Spring Framework']",서울.한국
+지란지교소프트,[개발] 백엔드 서버 개발자(PHP),"['Git', 'Google Cloud Platform', 'MongoDB', 'MySQL', 'Redis', 'JavaScript', 'PHP', 'AWS', 'PostgreSQL', 'Laravel']",경기.한국
+에이아이리더,인공지능 모델 개발자_서울,null,서울.한국
+지씨,웹 GIS 개발자(웹페이지 퍼블리셔 및 디자인),"['Linux', 'VueJS', 'C / C++', 'C#', 'CSS', 'JavaScript', 'Python', 'Docker', 'PostgreSQL', 'NodeJS', 'MFC', 'Spring Boot', '전자정부프레임워크']",인천.한국
+에스디티,M-SDT 프론트 개발자,null,서울.한국
+에스디티,M-SDT 시스템/네트워크 엔지니어,null,서울.한국
+한국평가정보,Frontend Engineer,"['Git', 'Linux', 'React', 'Spark', 'Java', 'JavaScript', 'Python', 'AWS', 'Docker', 'Spring Framework']",서울.한국
+해커스홀딩스,웹(Front-End)개발자,"['CSS', 'HTML']",서울.한국
+나두모두,프론트엔드 엔지니어,"['Github', 'React', 'TypeScript', 'AWS', 'Docker', 'Next.js']",서울.한국
+세무통,프런트엔드 개발자,null,서울.한국
+준일,웹 개발자,"['Github', 'React', 'JavaScript', 'AWS', 'API', 'React.js']",울산.한국
+가인지캠퍼스,주니어 어플리케이션 개발자,"['Android', 'iOS', 'JavaScript', 'TypeScript', 'AWS', 'NodeJS', 'React Native']",서울.한국
+네비웍스,윈도우 응용 프로그래머 (C++),null,경기.한국
+투썬플랫폼,"닷넷/닷넷코어(.NET Core, .NET 6) 크로스플랫폼 모바일 개발",null,경기.한국
+알피니언메디칼시스템,SW개발 UE파트/AOP-acoustic output power엔지니어,"['C / C++', '의료 장비', '의료 기기', '임베디드 시스템', 'PCB 디자인', '의료 영상', 'Windows 서비스', '제어 시스템 설계', 'EMC Storage', 'PCB 레이아웃 설계', 'EMC 규정 준수']",서울.한국
+에임(AIM),소프트웨어 엔지니어,"['Github', 'JavaScript', 'Next.js']",서울.한국
+카르도,백엔드 개발자 (Back-end Developer),null,서울.한국
+라이프시맨틱스,JAVA 개발,null,서울.한국
+에스오티글로벌,보안컨설팅,"['보안', '취약점 스캐닝']",서울.한국
+배달로나라를구하신,[배달플랫폼실] Java Server 개발자,"['Android', 'React', 'Delphi', 'Java', 'Kotlin', 'SQL', 'AWS', 'NodeJS']",경기.한국
+배달로나라를구하신,[배달플랫폼실] Android 개발자,"['Android', 'React', 'Delphi', 'Java', 'Kotlin', 'SQL', 'AWS', 'NodeJS']",경기.한국
+토기,웹 프론트엔드 엔지니어,null,서울.한국
+토기,안드로이드(Android) 엔지니어,null,서울.한국
+토기,iOS 엔지니어,null,서울.한국
+토기,백엔드 엔지니어,null,서울.한국
+이매지니어스,웹 개발자,"['iOS', 'Swift']",서울.한국
+띵킹프렌즈,[신입] 프론트엔드 개발(flutter),"['Git', 'Firebase', 'C#', 'Python', 'AWS', 'Flutter']",서울.한국
+띵킹프렌즈,프론트엔드 개발(flutter),"['Git', 'Firebase', 'C#', 'Python', 'AWS', 'Flutter']",서울.한국
+에듀템,인공지능 기술개발 및 연구,"['JavaScript', 'HTML5', 'CSS 자바 스크립트']",서울.한국
+로드위,웹 서비스 기획자,"['MySQL', 'HTML', 'Spring Framework']",서울.한국
+지니뮤직(geniemusic),Back-End 개발,null,서울.한국
+레디포스트,프론트엔드 개발자,"['Git', 'jQuery', 'HTML5', 'CSS3', 'React.js']",서울.한국
+에스지헬스케어,의료기기 영상처리 개발(용인근무),"['MATLAB', '.NET', 'C#', 'Python', 'C', 'C++', 'WPF', 'MFC']",경기.한국
+에프에이솔루션,AI 데이터 분석/모델 개발 및 관련 어플리케이션 개발,"['Android', 'iOS', 'Linux', 'React', 'Java', 'JavaScript', 'Kotlin', 'Python', 'SQL', 'Spring Framework']",서울.한국
+모니터랩,웹개발자 (PHP 중심),"['Git', 'React', 'VueJS', 'HTML', 'Java', 'JavaScript', 'Node.js', 'PHP', 'Python', 'Go']",서울.한국
+세포아소프트,솔루션(구매/회계) 개발엔지니어,"['Git', 'MySQL', 'Oracle', 'Java', 'Python', 'jQuery', 'Eclipse', '프론트엔드 개발자', '백엔드 개발', 'MSSQL']",서울.한국
+한패스,경영관리실/재무관리팀 정산관리(개발)자,"['Java', 'Spring Framework', 'JPA']",서울.한국
+영림원소프트랩,Flextudio 프론트엔드 개발자,"['CSS', 'HTML', 'JavaScript']",서울.한국
+트레슬(trestle),Salesforce Dev,"['Salesforce.com', 'Github', 'Python', 'SQL', 'Tableau', 'CRM 소프트웨어']",서울.한국
+에이엠텔레콤,SW Application 개발,"['Android', 'Linux', 'C / C++', 'Python', '프로토콜 개발']",경기.한국
+윈스,전문연구요원 웹 개발자,"['AngularJS', 'Linux', 'MySQL', 'React', 'C / C++', 'Java', 'Node.js', 'PHP', 'Python', 'RDBMS', 'RabbitMQ', 'Vue.JS']",서울.한국
+윈스,전문연구요원 JAVA 개발자,"['AngularJS', 'Linux', 'MySQL', 'React', 'C / C++', 'Java', 'Node.js', 'PHP', 'Python', 'RDBMS', 'RabbitMQ', 'Vue.JS']",서울.한국
+아이넥스코퍼레이션,메디컬 인공지능 엔지니어 (AI Engineer),null,서울.한국
+룩인사이트,[약올려] 플랫폼 서버백엔드 웹개발자 (0~3년),"['React', 'Java', 'JavaScript', 'Node.js', 'AWS', 'HTML5', 'Apache', 'CSS3', 'Tomcat', 'JSP', 'MSSQL', 'Restful API']",서울.한국
+오투오,[병역특례] 생성형 AI 엔지니어,"['Git', 'Github', 'Linux', 'MySQL', 'C / C++', 'HTML', 'JavaScript', 'Python', 'SQL', 'AWS', 'Spring Framework']",서울.한국
+엠아이큐브솔루션,S/W개발자 (장애인 직군),"['Oracle', 'C#', 'CSS', 'HTML', 'Java', 'JavaScript', 'PLC', 'PostgreSQL', 'MES', 'MSSQL']",서울.한국
+바로저축은행,전산개발 및 관리 담당자,"['Git', 'MySQL', 'C / C++', 'JavaScript', 'PHP', 'SQL', 'Spring Framework', 'JPA']",서울.한국
+투스카이,web developer,null,서울.한국
+에이치투오호스피탈리티,솔루션개발본부_백엔드 개발자,"['VueJS', 'CSS', 'HTML', 'JavaScript', 'React.js']",서울.한국
+스마트캐스트,C++ 개발 연구원 [KIOSK 개발],null,경기.한국
+스마트캐스트,C++ 개발 연구원 [주문관리 솔루션 KDS 개발],null,경기.한국
+법무법인대륜,프론트엔드 개발,"['Github', 'Node.js', 'TypeScript', 'AWS', 'Docker', 'Spring Framework', 'Spring Boot', 'Kubernetes']",부산.한국
+에드워드코리아,Digitalization Specialist(신입),"['ASP .NET', 'C#', 'HTML', 'JavaScript', 'Python', 'SQL', 'AWS', 'C++', 'Spring Framework']",충남.한국
+엠에스제이,비젼 딥러닝 연구개발,"['Pytorch', 'Tensorflow', 'Java', 'Python', 'AWS']",서울.한국
+디엔소프트,Nest.js 서버 개발자,"['Azure', 'MongoDB', 'MySQL', 'Redis', 'Node.js', 'Nest.js']",서울.한국
+제이어스,UI/UX 디자인/프론트엔드 개발,"['Git', 'MATLAB', 'JavaScript', 'Python', 'TypeScript', 'C', 'C++', 'UI 디자인', 'React.js']",부산.한국
+디토닉,연구원(전문연구원 포함),"['Azure', 'Hadoop', 'Java', 'JavaScript', 'Python', 'Scala', 'AWS']",경기.한국
+스마트캐스트,"[신입, 졸업예정] C++ 개발 연구원",null,경기.한국
+제트5,블록체인 개발자,"['Git', 'Node.js']",서울.한국
+메이저월드,쇼핑몰 PHP 개발자,"['Git', 'MySQL', 'JavaScript', 'PHP', 'jQuery']",경기.한국
+거북선컴퍼니,프론트 엔지니어 ( JS / React.js ),null,서울.한국
+거북선컴퍼니,백엔드 엔지니어 (Python),null,서울.한국
+에스티피씨,자율주행 Perception Engineer,"['Github', 'Linux', 'C / C++', 'Python', 'ROS']",경기.한국
